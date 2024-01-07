@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="14">
+            <PolyStyle id="15">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Placemark id="3">
+            <name>SGGA. C9446/2023/1</name>
+            <Point id="2">
+                <coordinates>-0.06838151109827599,5.659003111464225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>SGGA. C9446/2023/2</name>
+            <Point id="4">
+                <coordinates>-0.06819241760379814,5.659000988504845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>SGGA. C9446/2023/3</name>
+            <Point id="6">
+                <coordinates>-0.06819311159666905,5.658722052770009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>SGGA. C9446/2023/4</name>
+            <Point id="8">
+                <coordinates>-0.06838567138384681,5.658724649895499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>boundary</name>
+            <styleUrl>#14</styleUrl>
+            <Polygon id="10">
+                <outerBoundaryIs>
+                    <LinearRing id="12">
+                        <coordinates>-0.06838151109827599,5.659003111464225,0.0 -0.06819241760379814,5.659000988504845,0.0 -0.06819311159666905,5.658722052770009,0.0 -0.06838567138384681,5.658724649895499,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,16 @@
+Date of Work: WORK_DATE
+Land Surveyor: WORK_SURVEYOR
+
+The survey was carried out, at the request CLIENT_NAME who is a CLIENT_NATIONALITY to prepare site plan for a parcel of land located at CLIENT_LOCALITY in the CLIENT_REGION Region. Reconnaissance survey was made to inspect the boundaries and identify nearest survey pillars. Four type ‘C” pillars were erected at the corners of the parcel and the alloted regional number, CLIENT_PERSONAL_NUMBER, together with the respective pillar numbers inscribed on them.
+The corners of land was surveyed with the GPS machine to obtain the coordinates of the boundary corners and the necessary computations were done. The results obtained from the survey is shown in  below:
+
+Coordinates(Beacon Index)
+LAND_COORDINATES
+
+
+Area of Land Surveyed: LAND_AREA  acres
+Perimeter: LAND_PERIMETER  feets
+
+
+
+

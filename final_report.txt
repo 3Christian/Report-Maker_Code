@@ -1,0 +1,16 @@
+Date of Work: 
+Land Surveyor: 
+
+The survey was carried out, at the request  who is a  to prepare site plan for a parcel of land located at  in the  Region. Reconnaissance survey was made to inspect the boundaries and identify nearest survey pillars. Four type ‘C” pillars were erected at the corners of the parcel and the alloted regional number, , together with the respective pillar numbers inscribed on them.
+The corners of land was surveyed with the GPS machine to obtain the coordinates of the boundary corners and the necessary computations were done. The results obtained from the survey is shown in  below:
+
+Coordinates(Beacon Index)
+[(359184.01, 1238432.99), (359183.35, 1238501.71), (359082.16, 1238501.62), (359082.99, 1238431.64)]
+
+
+Area of Land Surveyed: 0.16  acres
+Perimeter: 340.93  feets
+
+
+
+
