@@ -1,6 +1,6 @@
 # Report-Maker
 This app automatically generates a report for Ghanaian Land surveyors on the site work that they carried out. 
-This automatic report generator saves them the hustle of manually typing a report on the job they did and also plots a diagram of the site surveyed. 
+This automatic report generator saves them the hustle of manually typing a report on their job and plots a diagram of the site surveyed. 
 In addition, the surveyor can view the site surveyed on Google Earth with the app
  
 
