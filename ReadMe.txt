@@ -1,9 +1,7 @@
 # Report-Maker
- This app is built to automate the generation of a survey report.
- 
- Converts coordinates from the traditional coordinate system (Ghana National Grid) to Google Earth’s coordinate system (WGS 84) 
- 
- And plots the converted coordinates on Google Earth.
+This app automatically generates a report for Ghanaian Land surveyors on the site work that they carried out. 
+This automatic report generator saves them the hustle of manually typing a report on the job they did and also plots a diagram of the site surveyed. 
+In addition, the surveyor can view the site surveyed on Google Earth with the app
  
 
 #Generating a Survey Report
